@@ -27,6 +27,12 @@ It leverages **Azure Data Factory (ADF), Azure Databricks (PySpark), and Azure S
 
 ---
 
+## 🧱 Architecture Diagram  
+
+![Architecture Diagram](docs/Data_Architecture_Diagram.png)  
+
+---
+
 ## 🛠️ Tech Stack  
 
 - **Azure Data Factory (ADF)** – Orchestrates ingestion from GitHub to Azure Data Lake  
